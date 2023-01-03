@@ -1,0 +1,35 @@
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+.lead{
+	font-weight: 500;
+}
+#modal-header-kasusbaru{
+	background-color: rgb(223, 71, 89);
+	color: whitesmoke;
+}
+#modal-header-kasusuji{
+	background-color: #5bc0de;
+	color: whitesmoke;
+}
+/* ---------------------------------------------------
+    FOOTER STYLE
+----------------------------------------------------- */
+.footer{
+    position: fixed;
+	display: block;
+	left: 0;
+   	bottom: 0;
+	width: 100%;
+	padding: 8px 0;
+	background-color: darkslategrey;
+	z-index: 997;
+}
+
+.footer .copyright{
+	text-align:center;
+	font-size:14px;
+	color:whitesmoke;
+	margin-bottom:0 ;
+}
+
